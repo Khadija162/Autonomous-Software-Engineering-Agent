@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+artifacts/
+workspace/
+*.log
+*.db
+.terraform/
+*.tfstate*
+*.tfvars
